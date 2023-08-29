@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a04e507-fe11-47fd-b750-754f9684f164" name="Changes" comment="created context">
-      <change beforePath="$PROJECT_DIR$/src/Components/Cell.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cell.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="5a04e507-fe11-47fd-b750-754f9684f164" name="Changes" comment="created Cell" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +31,20 @@
     </option>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="created Cell">
+      <option name="closed" value="true" />
+      <created>1693304883197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693304883197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created context" />
-    <option name="LAST_COMMIT_MESSAGE" value="created context" />
+    <MESSAGE value="created Cell" />
+    <option name="LAST_COMMIT_MESSAGE" value="created Cell" />
   </component>
 </project>
