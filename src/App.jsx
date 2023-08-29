@@ -1,6 +1,7 @@
-import React, {useState} from 'react';
-import './App.css';
+import React, { useState } from "react";
+import "./App.css";
 import { MyContext } from "./MyContext";
+import GameBoard from "./GameBoard";
 
 function App() {
   const [gameOver, setGameOver] = useState(false);
@@ -8,9 +9,11 @@ function App() {
 
   return (
     <div>
-      <MyContext.Provider value={{gameOver, setGameOver, flagCount, setFlagCount}}>
-          <GameBoard />
-        </MyContext.Provider>
+      <MyContext.Provider
+        value={{ gameOver, setGameOver, flagCount, setFlagCount }}
+      >
+        <GameBoard />
+      </MyContext.Provider>
     </div>
   );
 }
