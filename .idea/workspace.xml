@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a04e507-fe11-47fd-b750-754f9684f164" name="Changes" comment="created Cell" />
+    <list default="true" id="5a04e507-fe11-47fd-b750-754f9684f164" name="Changes" comment="created Cell">
+      <change beforePath="$PROJECT_DIR$/src/Components/Cell.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cell.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,12 +18,12 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "node.js.selected.package.tslint": "(autodetect)",
-    "ts.external.directory.path": "/Users/yehonatans/Documents/GitHub/Minesweeper/node_modules/typescript/lib"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/yehonatans/Documents/GitHub/Minesweeper/node_modules/typescript/lib&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
