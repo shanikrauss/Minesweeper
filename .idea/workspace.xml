@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a04e507-fe11-47fd-b750-754f9684f164" name="Changes" comment="created Cell">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Cell.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cell.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameBoard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameBoard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyContext.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

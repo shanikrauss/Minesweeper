@@ -9,7 +9,7 @@ function Cell({cellOpen, cellValue, cellCoordinates, handleClick, handleRightCli
 
   return(
       <div>
-        <button className={cellOpen ? `open ${cellValue}` : "closed"} onClick={handleOnClick} onRightClick={handleOnRightClick}/>
+        <button className={cellOpen ? `open` : "closed"} onClick={handleOnClick} onRightClick={handleOnRightClick}>{cellValue}</button>
       </div>
   )
 }
