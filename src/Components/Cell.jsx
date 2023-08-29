@@ -1,9 +1,9 @@
 function Cell({cellOpen, cellValue, cellCoordinates, handleClick, handleRightClick}){
-  function handleOnClick(){
+  const handleOnClick = () => {
     handleClick(cellOpen, cellValue, cellCoordinates);
   }
 
-  function handleOnRightClick(){
+  const handleOnRightClick = () => {
     handleRightClick(cellCoordinates);
   }
 
